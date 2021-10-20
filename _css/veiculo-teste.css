@@ -1,0 +1,147 @@
+section.venda-single {
+    padding: 80px 2% 0 2%;
+}
+
+section.venda-single .container {
+    padding: 40px 0 0 0;
+    text-align: left;
+    max-width: 1200px;
+}
+
+.info-veiculo {
+    display: inline-block;
+    width: 60%;
+}
+
+.foto-destaque {
+    width: 100%;
+    padding-top: 70%;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.descricao-veiculo {
+    width: 38%;
+    vertical-align: top;
+    display: inline-block;
+    padding: 60px 20px;
+    text-align: left;
+}
+
+.descricao-veiculo p {
+    font-size: 17px;
+    margin-top: 25px;
+    max-width: 300px;
+}
+
+.descricao-veiculo a {
+    margin-top: 25px;
+}
+
+.nav-galeria-parent {
+    width: 100%;
+    padding: 36px;
+    position: relative;
+}
+
+.arrow-left-nav {
+    position: absolute;
+    left: 8px;
+    top: 50%;
+    cursor: pointer;
+    transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    background-image: url('../_imagens/arrow-left.png');
+    background-size: 100% 100%;
+    width: 22px;
+    height: 22px;
+}
+
+.arrow-right-nav {
+    position: absolute;
+    right: 8px;
+    top: 50%;
+    cursor: pointer;
+    transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    background-image: url('../_imagens/arrow-right.png');
+    background-size: 100% 100%;
+    width: 22px;
+    height: 22px;
+}
+
+.info-bread {
+    padding: 20px 0;
+    text-align: left;
+    font-size: 20px;
+}
+
+.info-bread a {
+    text-decoration: none;
+    color: black;
+}
+
+.info-bread a:last-child {
+    color: red;
+}
+
+.info-bread span {
+    padding: 0 30px;
+}
+
+.nav-galeria {
+    overflow: hidden;
+    width: 100%;
+}
+
+/*
+.nav-galeria-wraper {
+     Via JS
+}
+*/
+
+.mini-img-wraper {
+    float: left;
+    padding: 9px;  
+}
+
+.mini-img {
+    width: 100%;
+    cursor: pointer;
+    padding-top: 70%;
+    background-position: center;
+    background-size: cover;
+}
+
+section.contato {
+    padding: 80px 2% 0 2%;
+}
+
+@media screen and (max-width: 768px) {
+    .info-veiculo {
+        width: 100%;
+    }
+
+    .descricao-veiculo {
+        padding: 20px 0;
+        text-align: center;
+        width: 100%;
+    }
+
+    .descricao-veiculo h2 {
+        text-align: left;
+    }
+
+    .descricao-veiculo p {
+        text-align: left;
+    }
+
+    .descricao-veiculo a {
+        display: inline-block;
+    }
+
+    .descricao-veiculo p {
+        max-width: none;
+    }
+}

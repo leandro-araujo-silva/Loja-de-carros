@@ -1,0 +1,69 @@
+section.sobre {
+    padding: 90px 2%;
+    min-height: 90%;
+}
+
+section.sobre .container {
+    max-width: 840px;
+    margin-top: 30px;
+}
+
+section.sobre .img-destaque-sobre {
+    width: 100%;
+    padding-top: 60%;
+    background-color: rgb(220,220,220);
+}
+
+section.sobre .descricao-autor {
+    margin-top: 20px;
+}
+
+.descricao-autor h2 {
+    font-size: 24px;
+}
+
+.descricao-autor p {
+    line-height: 28px;
+    font-size: 16px;
+    margin-top: 10px;
+}
+
+.descricao-autor2 {
+    margin-top: 40px;
+}
+
+.descricao-autor3 {
+    margin-top: 20px;
+    float: left;
+    width: calc(75% - 10px);
+    margin-left: 10px;
+}
+
+.descricao-autor3 p {
+    line-height: 28px;
+}
+
+.img-small {
+    width: 25%;
+    padding-top: 25%;
+    float: left;
+    background-image: url('');
+    background-color: rgb(220,220,220);
+}
+
+footer {
+    margin-top: 20px;
+}
+
+@media screen and (max-width: 580px) {
+
+    .img-small {
+        width: 100%;
+        padding-top: 50%;
+    }
+
+    .descricao-autor3 {
+        width: 100%;
+        padding: 20px 1%;
+    }
+}
