@@ -12,7 +12,11 @@
 
 ## 🚀 Sobre o Projeto
 
-Loja virtual de veículos
+Trabalho final da disciplina "Reuso de software e metodologias ágeis" do curso de Engenharia da Computação da Universidade Federal de Alagoas.
+
+Este trabalho foi ideializado pelo aluno Leandro Araújo da Silva.
+
+Este trabalho final consiste na elaboração de um framework para a filtragem de veículos.
 
 Link do projeto: http://loja-de-carros.vercel.app/
 
@@ -23,11 +27,12 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [HTML5]
 - [CSS3]
 - [JavaScript]
-- [FormSubmit]
 - [jQuery]
+- [Bootstrap]
+- [FormSubmit]
 ---
 
 <img src="https://github.com/leandro-araujo-silva/Proffy-FullStack/raw/master/github/linkedin.png" alt="linkedin" height="50">
 <br />
 
-Veja meu Linkedin: [LEANDRO ARAÚJO](http://www.linkedin.com/in/leandro-ara%C3%BAjo-da-silva-1660631b9)
+Veja meu Linkedin: [LEANDRO ARAÚJO](https://www.linkedin.com/in/leandro-araujo-silva01/)
