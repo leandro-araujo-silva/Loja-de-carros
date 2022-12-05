@@ -14,7 +14,7 @@
 
 Trabalho final da disciplina "Reuso de software e metodologias ágeis" do curso de Engenharia da Computação da Universidade Federal de Alagoas.
 
-Este trabalho foi ideializado pelo aluno Leandro Araújo da Silva.
+Este trabalho foi idealizado pelo aluno Leandro Araújo da Silva.
 
 Este trabalho final consiste na elaboração de um framework para a filtragem de veículos.
 
