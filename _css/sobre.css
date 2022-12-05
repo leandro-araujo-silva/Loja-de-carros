@@ -11,7 +11,9 @@ section.sobre .container {
 section.sobre .img-destaque-sobre {
     width: 100%;
     padding-top: 60%;
-    background-color: rgb(220,220,220);
+    background-image: url('https://quatrorodas.abril.com.br/wp-content/uploads/2020/08/DSCF0019_v2.jpg?quality=70&strip=info');
+    background-repeat: no-repeat;
+    background-size: contain;
 }
 
 section.sobre .descricao-autor {
