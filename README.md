@@ -1,4 +1,4 @@
-<h1 style="text-align: center; font-weight: bold;">Plataforma de revendedora de veículos</h1>
+<h1 style="text-align: center; font-weight: bold;">Plataforma de revenda de veículos</h1>
 
 ## Demonstração 📸
 
